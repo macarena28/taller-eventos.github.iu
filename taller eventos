@@ -23,7 +23,7 @@
 
     <script>
         function saludar() {
-            alert('¡Hola!');
+            alert('¡Hola! soy el div');
         }
     </script>
 </body>
